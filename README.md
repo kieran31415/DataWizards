@@ -5,6 +5,7 @@
 <h2>Mission statement:</h2>
 <p>Our mission at Data Wizards is to harness the power of data to drive innovation, provide actionable insights, and empower organizations for a data-driven future.</p>
 <p></p>
+<p></p>
 
 <p><b>Laurens Karakolev</b></p>
 <p><b>Jobtitle: </b>Data Analyst</p>
