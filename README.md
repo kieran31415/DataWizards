@@ -15,4 +15,4 @@
 <p><b>Wouter Selis</b></p>
 <p><b>Jobtitle: </b>Data Scientist</p>
 <p><b>Description: </b>Data Scientists are experts in using advanced statistical and machine learning techniques to extract valuable insights from data. They work with large datasets to build predictive models, develop algorithms, and uncover patterns that can drive business growth or solve complex problems. Data Scientists also play a crucial role in data-driven decision-making by providing actionable recommendations to stakeholders.</p>
-<p><img src="./files/foto_wouter.JPG" alt="Italian Trulli" width="320" height="250"></img></p>
+<p><img src="./files/foto_wouter.JPG" alt="Italian Trulli" width="350" height="250"></img></p>
