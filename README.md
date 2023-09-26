@@ -16,3 +16,9 @@
 <p><b>Jobtitle: </b>Data Scientist</p>
 <p><b>Description: </b>Data Scientists are experts in using advanced statistical and machine learning techniques to extract valuable insights from data. They work with large datasets to build predictive models, develop algorithms, and uncover patterns that can drive business growth or solve complex problems. Data Scientists also play a crucial role in data-driven decision-making by providing actionable recommendations to stakeholders.</p>
 <p><img src="./files/foto_wouter.JPG" alt="Italian Trulli" width="350" height="250"></img></p>
+<br>
+
+<p><b>Kieran Cornelissen</b></p>
+<p><b>Jobtitle: </b>Data Engineer</p>
+<p><b>Description: </b>Data Engineers design and maintain the infrastructure for collecting, storing, and processing data. They work on developing and optimizing databases, data pipelines, and ETL (Extract, Transform, Load) processes. Data Engineers ensure data quality, scalability, and accessibility, enabling Data Analysts and Data Scientists to work with clean and reliable data. They often use programming languages like Python, SQL, and tools like Hadoop and Spark.</p>
+<p><img src="./files/Foto_Kieran.jpg" alt="Italian Trulli" width="200" height="250"></img></p>
