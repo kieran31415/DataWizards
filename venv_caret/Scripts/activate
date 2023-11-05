@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\TM_3\Cloud AI\DataWizards-1\venv_caret"
+VIRTUAL_ENV="C:\TM_3\Cloud AI\DataWizards\venv_caret"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

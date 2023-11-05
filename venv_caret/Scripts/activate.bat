@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\TM_3\Cloud AI\DataWizards-1\venv_caret
+set VIRTUAL_ENV=C:\TM_3\Cloud AI\DataWizards\venv_caret
 
 if not defined PROMPT set PROMPT=$P$G
 
